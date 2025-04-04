@@ -13,7 +13,7 @@ const HeroPic = () => {
       className="h-full flex items-center justify-center"
     >
       <img
-        src="../../public/images/Yegare.png"
+        src="/images/Yegare.png" // Updated path
         alt="Pranav Yegare"
         className="max-h-[430px] w-auto"
       />

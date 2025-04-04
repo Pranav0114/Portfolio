@@ -4,7 +4,7 @@ const ExperienceTopMiddle = () => {
   return (
     <div className="lg:w-[35%] md:w-[50%] sm:w-[80%]">
       <img
-        src="../../public/images/experience-image.png"
+        src="/images/experience-image.png" // Updated path
         alt="experience image"
       />
     </div>
